@@ -1,14 +1,6 @@
 # Hi there! 👋 I'm Anmol Janamatti  
 2nd year computer science undergrad learning web technologies and cs fundamentals
-
-🔭 **Currently working on:**  
-- Learning the MERN stack for full-stack web development
-⚡ **Fun fact:**  
-- I'm a cinephile and a science enthusiast 🚀🎥  
-📫 **How to reach me:**  
-- Email: anmoljanamatti098@gmail.com  
-## 🛠️ Languages and Tools  
-
+---
 ### Programming Languages  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
 
@@ -22,13 +14,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ### Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+---
+⚡ **other interests:**  
+- I'm a cinephile and a science enthusiast 🚀🎥  
+📫 **How to reach me:**  
+- Email: anmoljanamatti098@gmail.com  
 - LinkedIn: [Anmol Janamatti](https://www.linkedin.com/in/anmol-janamatti/)  
-
----
-
----
 
 ## 📈 GitHub Stats  
 
