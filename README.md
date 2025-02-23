@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Anmol Janamatti  
 
-<h2>Second-year Computer Science undergrad learning web technologies and CS fundamentals.</h2>
+<h2>Computer Science Undergrad Learning Web Technologies And CS Fundamentals.</h2>
 
 ### 🛠️ Languages and Tools  
 
@@ -13,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="60"/>  
 </p>
 
-### Web Development  
+### Web Technologies
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="60"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" height="60"/>  
