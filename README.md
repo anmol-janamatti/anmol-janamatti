@@ -77,3 +77,4 @@ I'm an undergrad Computer Science student with a knack for building impactful an
 [![Email](https://img.shields.io/badge/Email-anmoljanamatti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmoljanamatti@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AnmolJanamatti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-janamatti/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-anmoljanamatti.site-0A0A0A?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.anmoljanamatti.site)
+[![RADIS Contributor](https://img.shields.io/badge/RADIS-Contributor-blue)](https://github.com/radis/radis)
