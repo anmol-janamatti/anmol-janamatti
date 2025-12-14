@@ -53,24 +53,7 @@ I'm an undergrad Computer Science student with a knack for building impactful an
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-janamatti&layout=compact&theme=dark" height="165" />
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anmol-janamatti&theme=onedark&column=6&no-frame=true" />
-</p>
-
----
-
-## 💻 Coding Profiles
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/anmol-janamatti?theme=dark&font=baloo)](https://leetcode.com/anmol-janamatti)
-
-[![CodeChef](https://img.shields.io/badge/CodeChef–bug__badenkai-lightgrey?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/bug_badenkai)  
-
-
----
 
 ## 🔗 Connect with Me
 
